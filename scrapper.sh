@@ -1,4 +1,4 @@
-#	 This program is free software: you can redistribute it and/or modify
+#This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
 #    the Free Software Foundation, either version 3 of the License, or
 #    (at your option) any later version.
@@ -17,7 +17,7 @@
 #	200MB free space in directory
 #	python installed and path configured
 #	Unix system with dos2unix, awk, sed and normal unix utilities present
-#	script.py and script2.py in same directory
+#	script.py in same directory
 #	Require a list of Modules in a txt file in same directory named modulelist.txt
 #
 #The script will create a .tsv file (tilde delimited values) of the module code, title,prereq and precludes in that order.
